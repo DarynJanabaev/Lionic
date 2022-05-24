@@ -54,11 +54,14 @@ html {
 	padding: 15px 30px;
 	line-height: 1;
 	border-radius: 5px;
+	border: 0px ;
+	transition: background-color color .1 ease-in-out;
 }
 
 .btn:hover {
-	background-color: #2976c9;
+	background-color: #205d9e;
 	color: white;
+
 }
 
 .container {
@@ -489,3 +492,5 @@ button:hover {
 		margin-right: 0;
 	}
 }
+
+
